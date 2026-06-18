@@ -183,11 +183,4 @@ This project is open source and available for personal and educational use.
 
 ## 📧 Contact
 
-**Author:** Nikhil  
-**GitHub:** [@codebynikhil-cpp](https://github.com/codebynikhil-cpp)
 
-For questions or suggestions, feel free to open an issue on GitHub or reach out directly.
-
----
-
-**Made with ❤️ by Nikhil**
